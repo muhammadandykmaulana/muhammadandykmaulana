@@ -22,7 +22,7 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 - 💻 I'm currently supporting on <a href="https://www.telkomsat.co.id/id/">PT. Telkom Satelit Indonesia</a> & <a href="https://davidgroup.co.id/?_transformed=enforce">PT. David Sistem Group:Global Private Software</a>.
 - 📖 I’m currently learning JS, PHP, HTML/CSS/SaaS.
 - 💍 Marital Status: Married.
-- 🤔 My interests are with Industry 4.0 (i.e cybersecurity, web programming (fullstack), IoT).
+- 🤔 My interests are with Industry 4.0 (i.e cybersecurity, IoT).
 - 💼 I’m pursuing a Diploma-3 (D3)'s degree in Electronic Engineering with Cumulative GPA 3.40 out of 4.0 scale.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via mandykmaulana@gmail.com to reach me.
